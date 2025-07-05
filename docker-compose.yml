@@ -1,0 +1,3 @@
+secrets:
+  db:
+    container_name: f8-k13-db
